@@ -8,6 +8,8 @@
 
 -   If you wish to fix the issue #1 please read the [Prerequisites](#prerequisites) and the [Contributions](#contributions) documentation.
 
+-   Here is an explanation of the [issue](/issue.md)
+
 ### Prerequisites
 -   no prior knowledge of coding necessary, just a passion to learn and problem solve
 -   curious about the Golang programming language.
