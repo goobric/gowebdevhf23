@@ -6,7 +6,7 @@
     -   missing functions
     -   typo
 
-### working code will produce the desired outcome  
+### working code will produce this desired outcome  
 
 -   when `go run main.go` is executed, the  local server will start
 -   open your preferred web browser and type in the url bar the following local address and port:  `127.0.0.1:8080`
