@@ -17,4 +17,6 @@
     -   [Notepad++](https://notepad-plus-plus.org)
 
 ### Contribution Guide
--   please request to be assigned to solve the issue
+-   please request to be assigned to solve the issue, here is a guide [Pull-Request-Tutorial](https://github.com/goobric/tutorial-pull-request-HF23/blob/main/instructions.md)
+-   once issue has been assigned, please complete a solution :-) 
+-   no response given to unsolicited pull requests
