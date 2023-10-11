@@ -2,9 +2,11 @@
 
 -   This is a very basic Golang program for inserting data into HTML Templates
 
--   This project is good for beginners just learning Golang
+-   This project is good for coding beginners new to learning Golang
 
 -   This is good for those participating in Hacktoberfest 2023 at a new / beginner level.
+
+-   The best way to learn is to problem solve.
 
 -   If you wish to fix the issue #1 please read the [Prerequisites](#prerequisites) and the [Contributions](#contributions) documentation.
 
