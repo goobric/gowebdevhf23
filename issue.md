@@ -9,7 +9,7 @@
 ### working code will produce the desired outcome  
 
 -   when `go run main.go` is executed, the  local server will start
--   open your preferred web browser and type in the url bar the following local address:  `127.0.0.1`
+-   open your preferred web browser and type in the url bar the following local address and port:  `127.0.0.1:8080`
 -   this should be the initial reponse from the browser:
     ![index page](img/231011_index.png)
 
